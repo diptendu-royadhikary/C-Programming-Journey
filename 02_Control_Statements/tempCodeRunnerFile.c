@@ -1,5 +1,3 @@
-#include <stdio.h>
-int main(){
 int a,b,choice;
 
 printf("Enter the two number here : ");
@@ -31,8 +29,4 @@ switch (choice){
     }
     break;
     default:
-    printf("Invalid");
-}
-
-    return 0;
-}
+    printf("Invalid")

@@ -14,7 +14,7 @@ I’ll keep adding new folders as I move forward — numbered for clarity and pr
 | No. | Folder Name | Description |
 |-----|--------------|-------------|
 | 01  | [Basics](./01_Basics/)       | Introduction to C syntax, variables, data types, and simple programs. |
-| 02  | [Control Statement](./01_controlstatements/) | Learning Decision Making (if,if-else,switch case) and loop(for,while,do while) |
+| 02  | [Control Statement](.02_Control_Statements/) | Learning Decision Making (if,if-else,switch case) and loop(for,while,do while) |
 | 03  |  |  |
 
 ---
